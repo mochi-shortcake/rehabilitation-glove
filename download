@@ -1,0 +1,25 @@
+# Arduino / build output
+build/
+*.elf
+*.bin
+*.hex
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Third-party libraries and papers are not redistributed here
+firmware/libraries/
+SCServo/
+*.pdf
+
+# Raw data (keep large datasets out of git; document them in biosensor/README.md)
+*.csv.bak
+data/raw/
