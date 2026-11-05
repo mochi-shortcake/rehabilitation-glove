@@ -5,7 +5,7 @@ Soft robotic hand-rehabilitation glove. An ESP32 reads flex sensors to detect vo
 **Author:** Diane Joseph, LI³TMES Lab, UTRGV
 **Status:** early prototype. See "Status" below and be skeptical of anything not marked *tested*.
 
-## Status (update this section every time something changes)
+## Status (to be modified when something changes)
 
 | Area | State | Notes |
 | --- | --- | --- |
