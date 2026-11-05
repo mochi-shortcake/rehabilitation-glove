@@ -10,10 +10,10 @@ Soft robotic hand-rehabilitation glove. An ESP32 reads flex sensors to detect vo
 | Area | State | Notes |
 | --- | --- | --- |
 | Flex sensing (Phase 1) | Working | 5 channels on GPIO 34, 35, 32, 33, 25 |
-| Finger modules + drums | Printed, not assembled [confirm] | Assembly was blocked on fasteners |
-| Servo firmware | Written, **not verified on hardware** [confirm] | See `firmware/` |
+| Finger modules + drums | Printed, not assembled | Assembly was blocked on fasteners |
+| Servo firmware | Written, **not verified on hardware** | See `firmware/` |
 | Flex-triggered assist | Not started | |
-| Biosensor driver (AD5940/41, LMP91000) | Not started [confirm] | Needs driver code from the lab |
+| Biosensor driver (AD5940/41, LMP91000) | Not started | Needs driver code from the lab |
 | Lactate calibration | Not started | |
 | Assist-gain function (fatigue modulation) | Not started | |
 
