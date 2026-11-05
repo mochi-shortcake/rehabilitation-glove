@@ -41,7 +41,7 @@ docs/        Design decisions, wiring/pin map, open items
 
 ## Licensing and sources
 
-No license has been chosen yet. Decide with the advisor/lab before making this repo public (lab-funded work, and reference designs have mixed licenses). References used:
+No license has been chosen yet. References used:
 
 - MengyangGao/hand_exoskeleton (MIT)
 - newdexterity/Hybrid-Exoskeleton-Glove (CC BY 4.0)
